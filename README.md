@@ -25,7 +25,7 @@
 ## About The Project
 
 Chat.py is a chat application built with flask microframework. This is a companion github repository to the tutorial post at the website.
-
+- [Chat.py tutorial](https://javasterling.com/python/real-time-chat-application-using-python-flask/?utm_source=rss&utm_medium=rss&utm_campaign=real-time-chat-application-using-python-flask)
 ### Built With
 
 This application is built with Flask framework.
